@@ -1,0 +1,59 @@
+1. a.Latin	b.French	c.Arabic	d. German
+
+2. a. Allen Turing	b. Charles Babbage	c. Simur Cray	d. Augusta Adaming
+
+3. a. Allen Turing	b. Charles Babbage 	c. Simur Cray	d. Augusta Adaming
+
+4. a. Allen Turing	b. Charles Babbage	c. Simur Cray	d. Augusta Adaming
+
+5. a. Edward Robert	b. Allen Turing	c. Charles Babbage	d. None of these
+
+6. a. a card reader and a printing device	  b. an analytical engine and a control unit	      c. a control unit and an arithmetic logic unit	       d. an arithmetic logic unit and a card reader
+
+7. a. User interface	b. Language translator	c. Platform	 d. Screen saver
+
+8. a. assembly language	 b. machine language	c. source code d. object code 
+
+9. a. network	 b. peripheral	 c. expansion board	d. digital device
+
+10. a. Entry codes	b. Passwords	c. Security commands	d. Code words
+
+11. a. Minicomputer works faster than Microcomputer	b. Microcomputer works faster than Minicomputer	c. Speed of both the computers is the same	d. The speeds of both these computers cannot be compared with the speed of advanced
+
+12. a. Medium Scale Integrated Circuits	  b. Medium System Integrated Circuits	   c. Medium Scale Intelligent Circuit	   d. Medium System Intelligent Circuit
+
+13. a. 1.40 MB	  b. 1.44 GB	c. 1.40 GB	d. 1.44 MB
+
+14. a. Wap Area Network	   b. Wide Area Network	   c. Wide Array Net	 d. Wireless Area Network
+
+15. a. Magnetic Ink Character Reader	b. Magnetic Ink Code Reader	c. Magnetic Ink Cases Reader	d. None
+
+16. a. Computer aided design	b. Computer algorithm for design	c. Computer application in design	d. Computer analogue design
+
+17. a. spam 	b. spoof     c. sniffer script	  d. spool
+
+18. a. Mainframe	b. Mini-computer	c. Microcomputer	d. PDA
+
+19. a. Compiler	b. Loader	c. Operating System	d. Assembler
+
+20. a. double-space	b. line spacing	     c. single space      d. vertical spacing
+
+21. a. The programme which arrives by being wrapped in box.	b. The programme which is the permanent part of the computer	 c. The computer which is the part of a big computer	  d. The computer and software system that control the machine
+
+22. a. Homepage      b. Index	  c. JAVA script      d. Bookmark
+
+23. a. Size 	b. Format	c. Point	d. Colour
+
+24. a. a copy is automatically printed	      b. it must be given a name to identify it 	c. it does not need a name	d. it only needs a name if it is not going to be printed
+
+25. a. CAN	b. LAN	    c. DAN	d. WAN
+
+26. a. Main memory	b. Secondary memory      c. Disk memory	    d. Programme memory
+
+27. a. operating system extensions 	b. cookies 	c. diagnostic software	     d. boot diskettes
+
+28. a. NAV 	b. F-Prot 	c. Oracle	d. McAfee
+
+29. a. Joystick 	b. Modem 	c. CD Drive	d. NIC Card
+
+30. a. 1416 	b. 1614	      c. 1641	   d. 1804

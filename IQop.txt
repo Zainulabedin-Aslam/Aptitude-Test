@@ -1,0 +1,61 @@
+1. a.100  b.132  c.145  d.144
+
+2. a. Monday  b. Tuesday  c. Wednesday  d. Thursday
+
+3. a. plant  b. leaf  c. branch  d. mangrove
+
+4. a.Dog  b.Mouse  c.Lion  d.Snake
+
+5. a.7  b.9  c.10  d.11
+
+6. a.25641  b.26451  c.12654  d.51462
+
+7. a.312  b.360  c.1550  d.4650
+
+8. a.True  b.False
+
+9. a.24  b.25  c.26  d.28
+
+10. a.225  b.260  c.298  d.310
+
+11. a.14  b.5  c.30  d.10
+
+12. a.Cow  b.Tiger  c.Snake  d.Dog
+
+13. a.Country  b.State  c.City  d.Animal
+
+14. a.Carrot  b.Bean  c.Corn  d.Apple
+
+15. a.18  b.16  c.20  d.21
+
+16. a.Daughter  b.Aunt  c.Uncle  d.Nephew
+
+17. a.F  b.A  c.Z  d.E
+
+18. a.Pen  b.Envelope  c.Book  d.Mail
+
+19. a.Foolish  b.Anxious  c.Distraught  d.Comprehensive
+
+20. a.Spoke  b.Automobile  c.Road  d.Car
+
+21. a.6  b.4  c.2  d.1
+
+22. a.33 percent  b.20 percent  c.23 percent  d.35 percent
+
+23. a.Fawner  d.Flautist  c.Blackmailer  d.Ruffian
+
+24. a.31311313  b.31311131  c.13133313  d.13133131
+
+25. a.Bill is taller than Peter  b.Peter is taller than Bill  c.Bill is as tall as Peter  d.It is impossible to tell whether Bill or Peter is taller
+
+26. a.Brass  b.Copper  c.Iron  d.Tin
+
+27. a.20%  b.25%  c.30%  d.35%
+
+28. a.22  b.23  c.45  d.46
+
+29. a.drawing  b.writing  c.stirring  d.eating
+
+30. a.3  b.7  c.24  d.5
+
+
